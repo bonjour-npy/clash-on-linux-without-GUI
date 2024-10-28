@@ -1,11 +1,5 @@
 # Linux 服务器代理设置（Without GUI）
 
-:::tip[参考链接]
-
-[在 Linux 下使用 Clash 进行全局上网代理及自动订阅代理和规则](https://robinxb.com/posts/2023/clash-on-linux/)
-
-:::
-
 ## 下载 Clash-Premium
 
 1. 使用 wget 命令下载 [gzip 安装包](./clash-linux-amd64-n2023-09-05-gdcc8d87.gz)
